@@ -1,0 +1,25 @@
+_repo: E.P.-Roe--Reminiscences-of-his-Life_36023
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roe, Mary A. (Mary Abigail)
+    gutenberg_agent_id: '38035'
+    url: http://www.gutenberg.org/2009/agents/38035
+description: ''
+gutenberg_issued: '2011-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36023'
+  lccn: '99005733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Roe, Edward Payson, 1838-1888'
+- !lcc 'PS'
+title: 'E. P. Roe: Reminiscences of his Life'
+url: http://www.gutenberg.org/ebooks/36023
